@@ -3,6 +3,7 @@
 # Roo
 .roo/
 .rooignore
+docs/
 
 # ENVRC
 .envrc
